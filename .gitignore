@@ -1,0 +1,11 @@
+build*/
+dist/
+validation/
+Ultralytics/
+__pycache__/
+*.pyc
+*.engine
+*.onnx
+*.obj
+*.pdb
+/data/
